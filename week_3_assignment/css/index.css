@@ -1,0 +1,71 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Food, LLC */
+  color: #557c3e;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#content
+{
+	margin-top: 20px;
+}
+
+
+#test
+{
+	background-color: #123456;
+	padding:5px;
+	margin-bottom: 15px;
+}
+
+#odi
+{
+	background-color: #456789;
+	padding:5px;
+	margin-bottom: 15px;
+}
+
+#t20
+{
+	background-color: #0abcde;
+	padding:5px;
+	margin-bottom: 15px;
+}
+
+#test_h
+{
+	font-size: 1.5em;
+	margin-bottom: 5px;
+}
+
+#odi_h
+{
+	font-size: 1.5em;
+	margin-bottom: 5px;
+}
+
+#t20_h
+{
+	font-size: 1.5em;
+	margin-bottom: 5px;
+}
